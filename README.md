@@ -1,4 +1,4 @@
-# <img src="https://github.com/kumamotoo/ilovepizza/blob/master/public/pizza-logo.svg?token=AMIJPECIY6PT6WGEVBLTOHC73SMWI" style="max-width: 60px; width: 60px;"/> ILOVEPIZZA
+# <img src="https://github.com/kumamotoo/ilovepizza/blob/master/public/pizza-logo.svg?token=AMIJPECIY6PT6WGEVBLTOHC73SMWI" style="max-width: 5%; width: 5%;"/> ILOVEPIZZA
 
 ## Set up:
 
